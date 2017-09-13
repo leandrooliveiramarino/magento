@@ -7,7 +7,7 @@
         </head>
         <body>
             <referenceContainer name="content">
-                <block class="Magento\Backend\Block\Template" template="MyCompany_ExampleAdminNewPage::helloworld.phtml"/>
+                <block class="Magento\Backend\Block\Template" template="Picstore_ExampleAdminNewPage::helloworld.phtml"/>
             </referenceContainer>
         </body>
     </page>
